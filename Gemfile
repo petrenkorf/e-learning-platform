@@ -59,3 +59,5 @@ gem "haml-rails", "~> 2.1"
 gem "html2haml", "~> 2.3"
 
 gem "simple_form", "~> 5.1"
+
+gem "devise", "~> 4.8"
